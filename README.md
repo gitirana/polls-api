@@ -1,1 +1,1 @@
-# polls-api
+# polls
